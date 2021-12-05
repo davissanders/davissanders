@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @davissanders
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning things
+Software Engineer @ Smartlink Ventures
 
 <!---
 davissanders/davissanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
